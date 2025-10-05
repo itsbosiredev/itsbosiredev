@@ -1,6 +1,6 @@
 # Dr. Jane Doe
 
-👩‍🔬 Biomedical Scientist | 🔬 Researcher | 📊 Data Enthusiast  
+👩‍🔬 Biomedical Scientist | 🔬 Researcher | 📊 Data Enthusiast  | Immunologist
 
 Welcome to my GitHub profile! I am a passionate biomedical scientist with expertise in molecular biology and bioinformatics. I am dedicated to advancing scientific knowledge and leveraging data-driven approaches to solve complex biological problems.
 
