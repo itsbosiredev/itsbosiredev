@@ -53,10 +53,4 @@ Welcome to my GitHub profile! I am a passionate biomedical scientist with expert
 
 ---
 
-## 📊 GitHub Stats
-
-![Dr. Jane Doe's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
-
----
-
 Thank you for visiting my profile! Feel free to explore my repositories and connect with me for collaborations or discussions.
